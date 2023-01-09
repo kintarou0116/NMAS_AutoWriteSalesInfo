@@ -1,0 +1,1 @@
+SLACK_ERROR_LOG_FLAG = True
